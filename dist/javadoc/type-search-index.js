@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"AddExamFrame"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ButtonOperations"},{"p":"<Unnamed>","l":"Data"},{"p":"<Unnamed>","l":"DatabaseOperations"},{"p":"<Unnamed>","l":"RemainingDaysFrame"}];updateSearchResults();
